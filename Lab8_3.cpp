@@ -36,7 +36,7 @@ void printAr(int numAr[], int numArSize) {
     printf("\n");
 }
 
-/* Generate a unique number (1–100) */
+/* Generate a unique number (1â€“100) */
 int checkNum(int numAr[], int numArSize) {
     int rnum = random1to100();
 
